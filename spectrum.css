@@ -1,0 +1,34 @@
+h1 {
+  text-align: center;
+  font-family: "Abril Fatface", cursive;
+}
+
+.art {
+  margin: auto;
+}
+
+td {
+  height: 250px;
+  width: 150px;
+  border: 5px solid white;
+}
+
+#one {
+  background-color: #355070;
+}
+
+#two {
+  background-color: #6d597a;
+}
+
+#three {
+  background-color: #b56576;
+}
+
+#four {
+  background-color: #e56b6f;
+}
+
+#five {
+  background-color: #eaac8b;
+}
